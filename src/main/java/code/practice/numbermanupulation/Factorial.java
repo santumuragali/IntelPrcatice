@@ -1,4 +1,4 @@
-package code.practice;
+package code.practice.numbermanupulation;
 
 public class Factorial {
     public static void main(String[] args) {

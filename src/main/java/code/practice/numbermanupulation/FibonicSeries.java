@@ -1,4 +1,4 @@
-package code.practice;
+package code.practice.numbermanupulation;
 
 public class FibonicSeries {
 
