@@ -17,7 +17,7 @@ public class ReveseEachWord {
                rev = ch + rev;
 //               val.insert(0,ch);
             }
-            System.out.println(val);
+//            System.out.println(val);
             res.append(rev).append(" ");
         }
         System.out.println(res);
