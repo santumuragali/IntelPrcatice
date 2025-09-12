@@ -1,4 +1,4 @@
-package code.practice;
+package code.practice.stringmanupulation;
 
 import java.util.Arrays;
 
