@@ -1,6 +1,5 @@
 package code.practice.arraymanupulation;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class SortArray {
@@ -17,5 +16,8 @@ public class SortArray {
             }
         }
         System.out.println(Arrays.toString(a));
+    }
+
+    public static class TragetElement {
     }
 }
